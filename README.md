@@ -11,16 +11,6 @@ After training the model, we'll walk you through the process of creating an atte
 
 To enhance the user experience, we'll also demonstrate how to build a graphical user interface (GUI) using Python's tkinter library. This will allow you to interact with the attendance monitoring system through an intuitive and user-friendly interface.
 
-By the end of this tutorial, you'll have a fully functional face recognition based attendance monitoring system running on Windows 11. Whether you're a student, teacher, or business professional, this system will revolutionize the way you manage attendance and save you valuable time.
-
-Don't forget to subscribe to our channel for more exciting tutorials on Python, computer vision, and artificial intelligence. Get ready to elevate your attendance monitoring system with cutting-edge technology!
---------------------------------------------------------------------
-
-LINK TO DOWNLOAD THE REQUIRED ZIP FILE :-
-
-https://bit.ly/3NAAArN
-
---------------------------------------------------------------------
 
 * LANGUAGE USED *
 Python
